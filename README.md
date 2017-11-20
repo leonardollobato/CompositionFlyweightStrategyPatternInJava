@@ -1,2 +1,4 @@
-run: javac Main.java
-afte: java Main
+# Composition Flyweight and Strategy Patterns
+
+javac Main.java
+java Main
